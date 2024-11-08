@@ -2,7 +2,9 @@
 
 1) First, compile the file (semaforo.cpp or MutexCode.cpp).
 Example: g++ semaforo.cpp
+
 Semaforo.cpp uses a semaphore implementation
+
 MutexCode.cpp uses a Mutex implementation
 
 3) When running the program, you must pass the directory path and the desired threshold as parameters.
